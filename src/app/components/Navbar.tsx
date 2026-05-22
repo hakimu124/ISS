@@ -1,6 +1,5 @@
 "use client";
 // Using text-based logo instead of image
-import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
