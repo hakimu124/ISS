@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Abdihakim Mohamed",
-  profile: "/pic.jpg",
+  profile: "/pic3.jpg",
   designation: "Safaricom Employee",
   designationAlternateWords: [
     "Tech Enthusiast.",
