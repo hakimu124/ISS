@@ -16,30 +16,30 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Abdul Basit | Full Stack Developer & AI Automation Expert",
+  title: "Abdihakim Mohamed | Safaricom Employee & Tech Enthusiast",
   description:
-    "Explore the portfolio of Abdul Basit, a Professional Full Stack Developer specializing in Next.js, AI Automation, and modern web solutions. Built for performance and user experience.",
+    "Explore the portfolio of Abdihakim Mohamed, a professional at Safaricom and a technology enthusiast passionate about innovation and modern digital experiences.",
   keywords: [
-    "Abdul Basit",
-    "Full Stack Developer",
-    "Next.js Portfolio",
-    "AI Automation",
-    "Software Engineer",
-    "React Developer",
+    "Abdihakim Mohamed",
+    "Safaricom",
+    "Tech Enthusiast",
+    "Creative Thinker",
+    "Professional Portfolio",
+    "Kenya Tech",
   ],
-  authors: [{ name: "Abdul Basit" }],
+  authors: [{ name: "Abdihakim Mohamed" }],
   openGraph: {
-    title: "Abdul Basit | Personal Portfolio",
+    title: "Abdihakim Mohamed | Personal Portfolio",
     description:
-      "Full Stack Developer & AI Automation Expert — Building the future of the web.",
-    url: "https://abdulbasit-005.vercel.app",
-    siteName: "Abdul Basit Portfolio",
+      "Safaricom Employee & Tech Enthusiast — Exploring the future of technology and innovation.",
+    url: "#",
+    siteName: "Abdihakim Mohamed Portfolio",
     images: [
       {
         url: "/Website-overview.png",
         width: 1200,
         height: 630,
-        alt: "Abdul Basit Portfolio Overview",
+        alt: "Abdihakim Mohamed Portfolio Overview",
       },
     ],
     locale: "en_US",
@@ -47,8 +47,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Abdul Basit | Full Stack Developer",
-    description: "Building modern web applications and AI automations.",
+    title: "Abdihakim Mohamed | Tech Enthusiast",
+    description:
+      "Exploring modern digital experiences and technology innovation.",
     images: ["/Website-overview.png"],
   },
   robots: {

@@ -1,16 +1,16 @@
-
-# 🌐 Abdul Basit — Personal Portfolio
+# 🌐 Abdihakim Mohamed — Personal Portfolio
 
 Welcome to my **developer portfolio** built with **Next.js 15**, **Tailwind CSS**, and modern web tools. This site showcases my journey, skills, and projects — all wrapped in a sleek, animated, and responsive UI.
 
 ---
+
 ## 📸 Screenshot
 
-![Homepage of Abdul Basit’s Portfolio](public/Website-overview.png)
----
+## ![Homepage of Abdihakim Mohamed’s Portfolio](public/Website-overview.png)
+
 ## 🚀 Live Demo
 
-🔗 [Visit Portfolio Website](https://abdul-basit-portfolio-website.vercel.app/)
+🔗 [Visit Portfolio Website](https://your-portfolio.vercel.app/)
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to my **developer portfolio** built with **Next.js 15**, **Tailwind CSS*
 ## 📁 Folder Structure
 
 ```
-ghost-oo5-personal-portfolio-website/
+personal-portfolio-website/
 ├── public/                  # Static assets, Lottie, images, icons
 ├── src/app/
 │   ├── components/          # Reusable UI & page sections
@@ -92,7 +92,7 @@ NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=
 
 ## 📦 Deployment
 
-deployed  [here](https://abdul-basit-portfolio-website.vercel.app/)
+deployed [here](https://your-portfolio.vercel.app/)
 
 ---
 
@@ -106,6 +106,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Got a project in mind or just want to say hi?
 
-📧 [rajaabdulbasit005@gmail.com](mailto:rajaabdulbasit005@gmail.com)  
+📧 [abdihakma0@gmail.com](mailto:abdihakma0@gmail.com)
+
+```
 
 ```
